@@ -1,0 +1,21 @@
+# Python Dependencies for Personal AI Employee - Silver Tier
+# Install with: pip install -r requirements.txt
+
+# Core Dependencies
+watchdog>=3.0.0          # File system monitoring
+
+# Gmail API (optional, for email monitoring)
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-api-python-client>=2.100.0
+
+# Claude API (optional, for AI plan generation)
+anthropic>=0.18.0
+
+# Utilities
+python-dotenv>=1.0.0     # Environment variable management
+
+# Development (optional)
+# pytest>=7.4.0          # Testing
+# black>=23.0.0          # Code formatting
+# flake8>=6.1.0          # Linting
