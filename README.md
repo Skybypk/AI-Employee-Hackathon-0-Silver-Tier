@@ -1,6 +1,6 @@
 # Personal AI Employee - Silver Tier
 
-A comprehensive AI-powered employee assistant with vault management, approval workflows, and automated task processing.
+A comprehensive AI-powered employee assistant with vault management, approval workflows, and automated task processing..
 
 ## 🎯 Overview
 
